@@ -1,0 +1,39 @@
+.sum{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+ background-color: rgb(37, 19, 237);
+ border-radius: 20px;
+ width: 300px;
+ 
+}
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+     background-color: rgb(255, 204, 0);
+     width: 20px;
+     height: 20px;
+} 
+.summa,
+.period,
+.proc,
+.itog2{
+    color: blue;
+    font-size: 20px;
+    margin: 20px;
+}
+.time{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+ background-color: rgb(226, 43, 43);
+ border-radius: 20px;
+ width: 300px;
+ 
+}
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+     background-color: rgb(111, 235, 53);
+     width: 20px;
+     height: 20px;
+     border-radius: 10px;
+} 
